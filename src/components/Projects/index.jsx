@@ -9,7 +9,7 @@ import { useInView } from "react-intersection-observer"
 
 import work1 from "../../assets/Images/work1.png"
 import work2 from "../../assets/Images/work2.png"
-import work3 from "../../assets/Images/work3.png"
+import work3 from "../../assets/Images/work34.png"
 
 export default function Projects() {
   const controls = useAnimation()
@@ -29,25 +29,25 @@ export default function Projects() {
 
   const works = [
     {
-      client: "client name",
-      year: "2023",
+      client: "Postgram (Instagram Clone)",
+      year: "2025",
       img: work1,
-      title: "Revamping Global Lifestyle Brand.",
-      detail: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      title: "Social Media, Redesigned",
+      detail: "Developed an interactive social media platform inspired by Instagram, enabling users to create, edit, like, and save posts, explore content, and view profiles, all within a modern, responsive, and engaging UI.",
     },
     {
-      client: "client name",
-      year: "2023",
+      client: "BingeBuddy (Movie Streaming Platform)",
+      year: "2025",
       img: work2,
-      title: "Next generation Web Management System.",
-      detail: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      title: "Lights, Camera, Movies!",
+      detail: "Developed a movie streaming platform that lets users explore trending films, search by title, and watch official trailers, delivering a seamless and responsive viewing experience.",
     },
     {
-      client: "client name",
-      year: "2023",
+      client: "Digital Library (E-Commerce Website)",
+      year: "2025",
       img: work3,
-      title: "Share your Life Stories. Generationally.",
-      detail: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      title: "Smart Library, Happy Readers",
+      detail: "Developed an interactive library platform that allows users to browse collections, add or remove books from their cart, and enjoy a seamless, organized reading experience designed to make book discovery effortless.",
     },
   ]
 
