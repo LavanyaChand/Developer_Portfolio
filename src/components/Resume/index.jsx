@@ -16,6 +16,7 @@ import Icon from "../Icon"
 import githubIcon from "../../assets/Icon/github.svg"
 import linkedinIcon from "../../assets/Icon/linkedin.svg"
 import fileIcon from "../../assets/Icon/file.svg"
+import resume from "../../assets/Lavanya_Chand_Resume__.pdf"
 
 // jsons
 import technicalSkills from "../../constants/technicalSkills.json"
@@ -75,7 +76,7 @@ export default function Resume() {
                 <a href="https://www.linkedin.com/in/lavanyachand/" target="_blank" rel="noreferrer">
                   <Icon img={linkedinIcon} />
                 </a>
-                <a href="" target="_blank" rel="noreferrer">
+                <a href={resume} target="_blank" rel="noreferrer">
                   <Icon img={fileIcon} />
                 </a>
               </motion.div>
