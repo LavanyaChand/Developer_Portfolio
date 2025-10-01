@@ -35,6 +35,8 @@ export default function Projects() {
       year: "2025",
       img: work1,
       title: "Social Media, Redesigned",
+      link: "https://social-media-app-gilt-five.vercel.app/",
+      github: "https://github.com/LavanyaChand/Social_media_app",
       detail: "Developed an interactive social media platform inspired by Instagram, enabling users to create, edit, like, and save posts, explore content, and view profiles, all within a modern, responsive, and engaging UI.",
     },
     {
@@ -42,6 +44,8 @@ export default function Projects() {
       year: "2025",
       img: work5,
       title: "Step Into the Ultraverse of NFTs",
+      link: "https://lavanya-internship.vercel.app/",
+      github: "https://github.com/LavanyaChand/lavanya-internship",
       detail: "Developed a responsive website that transformed a static design into a dynamic application, integrating libraries like Axios, React Slick, and Animate on Scroll to enhance interactivity and user experience. Implemented version control with GitHub branches and pull requests to maintain clean, collaborative workflows.",
     },
     {
@@ -49,6 +53,8 @@ export default function Projects() {
       year: "2025",
       img: work2,
       title: "Lights, Camera, Movies!",
+      link: "https://movie-streaming-platform-react.vercel.app/",
+      github: "https://github.com/LavanyaChand/Movie_Streaming_Platform_React",
       detail: "Developed a movie streaming platform that lets users explore trending films, search by title, and watch official trailers, delivering a seamless and responsive viewing experience.",
     },
     {
@@ -56,6 +62,8 @@ export default function Projects() {
       year: "2025",
       img: work3,
       title: "Smart Library, Happy Readers",
+      link: "https://librarybooks-beryl.vercel.app/",
+      github: "https://github.com/LavanyaChand/Library",
       detail: "Developed an interactive library platform that allows users to browse collections, add or remove books from their cart, and enjoy a seamless, organized reading experience designed to make book discovery effortless.",
     },
     {
@@ -63,6 +71,8 @@ export default function Projects() {
       year: "2025",
       img: work4,
       title: "Pixel-Perfect Treact Clone",
+      link: "https://lavanyachand.github.io/Treact_Website/",
+      github: "https://github.com/LavanyaChand/Treact_Website",
       detail: "Developed a responsive UI clone of the Treact website using HTML, CSS, and JavaScript. Recreated multiple sections including hero banners, pricing cards, testimonials, and service highlights with pixel-perfect layouts, clean design, and smooth navigation to demonstrate front-end development skills.",
     },
   ]
