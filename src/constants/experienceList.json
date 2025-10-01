@@ -1,23 +1,46 @@
 [
   {
-    "company": "Canva",
-    "role": "Software Engineer",
+    "company": "Resilience Inc.,",
+    "role": "Frontend Developer",
     "resps": [
-      "Developing new innovative features across the video product which leads to more users choosing the video Canva product",
-      "Using React, TypeScript and MobX to engineer a frontend codebase using industry best practises",
-      "Writing extremely clean and reusable code by making effective use of dependency injection, code isolation, local reasoning, clean module boundaries, fast development cycles, tests, deterministic behaviour and type safety"
+      "Developing a climate refugee mobile app to connect communities with shelters, jobs, healthcare, and resources during natural disasters.",
+      "Building end-to-end features in React Native, TypeScript, and Material UI, ensuring responsive, scalable, and user-friendly interfaces.",
+      "Collaborating with designers and product managers to translate wireframes into functional flows, integrating APIs, and maintaining clean, reusable code.",
+      "Contributing to accessibility, performance, and cross-platform optimization, supporting the app’s mission-critical use cases."
     ],
-    "date": "Dec 2020 - Current"
+    "date": "July 2025 - Current"
   },
   {
-    "company": "Loopit",
-    "role": "Software Engineer",
+    "company": "Skinstric AI",
+    "role": "Frontend Engineer",
     "resps": [
-      "Developed the Loopit main software and customer facing widget using Vue and Vuex state management",
-      "Worked with UX designers and backend engineers in order to maintain and upgrade a high quality software that is used by car dealerships and consumers internationally",
-      "Transformed UI/UX wireframes into responsive HTML and CSS (Sass/BEM)",
-      "Ran end-to-end tests using Cypress unit tests and regression testing"
+      "Built a privacy-first skincare analysis platform with Next.js and TypeScript, featuring multi-step onboarding, strict validation, and persistent localStorage.",
+      "Developed an image ingestion system with React + MediaDevices API for uploads and live selfies, handling permissions and device edge cases.",
+      "Integrated with Skinstric’s private API (OpenAI Vision) to analyze facial images and deliver demographic, age, and gender predictions with normalized precision scores.",
+      "Designed a responsive, Figma-faithful interface with TailwindCSS and GSAP animations, boosting engagement with recommendation cards by 60%.",
+      "Optimized client-server interactions with Next.js Server Components, achieving ~2s analysis latency and 98% detection accuracy across skin conditions."
     ],
-    "date": "Jul 2020 - Dec 2020"
+    "date": "Jul 2025 - September 2025"
+  },
+  {
+    "company": "Resilience Inc.,",
+    "role": "UX Designer",
+    "resps": [
+      "Designed engaging and intuitive mobile user experiences for a climate refugee app, improving onboarding completion by 60% and significantly reducing user drop-offs.",
+      "Translated complex workflows into wireframes, prototypes, and interactive mockups in Figma, cutting design-to-development cycles by 30%.",
+      "Applied UX principles such as typography, color theory, and responsive layouts to deliver visually cohesive designs, leading to a 45% increase in user engagement with new features.",
+      "Partnered with developers to align design solutions with feasibility and project goals, enabling a 25% faster rollout of mobile features."
+    ],
+    "date": "February 2025 - July 2025"
+  },
+  {
+    "company": "Resilience Inc.,",
+    "role": "AI Siftware Engineer",
+    "resps": [
+      "Enhanced AI-driven features for the AIMEE mobile app, improving app stability by 35% through new user-facing functionalities and critical bug fixes.",
+      "Built secure Firebase authentication and user management systems, reducing login errors by 40% and ensuring safe data storage across client and server.",
+      "Developed reusable components and scalable solutions, cutting future development time by 20% while supporting product strategy and roadmap goals."
+    ],
+    "date": "August 2024 - December 2024"
   }
 ]

@@ -10,6 +10,8 @@ import { useInView } from "react-intersection-observer"
 import work1 from "../../assets/Images/work1.png"
 import work2 from "../../assets/Images/work2.png"
 import work3 from "../../assets/Images/work34.png"
+import work4 from "../../assets/Images/work4.png"
+import work5 from "../../assets/Images/work5.png"
 
 export default function Projects() {
   const controls = useAnimation()
@@ -36,6 +38,13 @@ export default function Projects() {
       detail: "Developed an interactive social media platform inspired by Instagram, enabling users to create, edit, like, and save posts, explore content, and view profiles, all within a modern, responsive, and engaging UI.",
     },
     {
+      client: "Ultraverse NFT World",
+      year: "2025",
+      img: work5,
+      title: "Step Into the Ultraverse of NFTs",
+      detail: "Developed a responsive website that transformed a static design into a dynamic application, integrating libraries like Axios, React Slick, and Animate on Scroll to enhance interactivity and user experience. Implemented version control with GitHub branches and pull requests to maintain clean, collaborative workflows.",
+    },
+    {
       client: "BingeBuddy (Movie Streaming Platform)",
       year: "2025",
       img: work2,
@@ -48,6 +57,13 @@ export default function Projects() {
       img: work3,
       title: "Smart Library, Happy Readers",
       detail: "Developed an interactive library platform that allows users to browse collections, add or remove books from their cart, and enjoy a seamless, organized reading experience designed to make book discovery effortless.",
+    },
+    {
+      client: "Treact Clone",
+      year: "2025",
+      img: work4,
+      title: "Pixel-Perfect Treact Clone",
+      detail: "Developed a responsive UI clone of the Treact website using HTML, CSS, and JavaScript. Recreated multiple sections including hero banners, pricing cards, testimonials, and service highlights with pixel-perfect layouts, clean design, and smooth navigation to demonstrate front-end development skills.",
     },
   ]
 

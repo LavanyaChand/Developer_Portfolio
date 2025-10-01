@@ -53,6 +53,7 @@
 .resume--grid--detail--pic img {
   display: block;
   width: 100%;
+  border-radius: 50%;
 }
 
 .resume--grid--detail--data {

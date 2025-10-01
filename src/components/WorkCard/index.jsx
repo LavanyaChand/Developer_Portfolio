@@ -45,6 +45,7 @@ export default function TechCard({ item }) {
       <div className="workCard--head">
         <h3>
           <TextWriting delay={delay} nocursor controls={controls} stagger={0.08} text={item.client} />
+          <a href="" className="live-colour"> Live Demo</a>
         </h3>
         <h3>
           <TextWriting delay={delay} nocursor controls={controls} stagger={0.08} text={item.year} />

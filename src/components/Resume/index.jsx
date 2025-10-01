@@ -11,7 +11,7 @@ import ScrambleText from "../ScrambleText"
 import ResumeCard from "../ResumeCard"
 
 // assets
-import ProfilePic from "../../assets/Images/Profile pic.png"
+import ProfilePic from "../../assets/Images/Profile pic.jpg"
 import Icon from "../Icon"
 import githubIcon from "../../assets/Icon/github.svg"
 import linkedinIcon from "../../assets/Icon/linkedin.svg"
@@ -61,7 +61,7 @@ export default function Resume() {
           <div className="resume--grid--detail--data">
             <div className="resume--grid--detail--data--name">
               <h2>
-                <ParaWriting stagger={0.08} text={"David Bragg"} />
+                <ParaWriting stagger={0.08} text={"Lavanya Chand"} />
               </h2>
               <h4>
                 <ScrambleText shuffle delay={0}>
@@ -69,10 +69,10 @@ export default function Resume() {
                 </ScrambleText>
               </h4>
               <motion.div initial="hidden" animate={controls} variants={blurVariants} transition={{ duration: 1, delay: 0.5 }} onAnimationComplete={() => handleComplete()} className="resume--grid--detail--data--name--icons">
-                <a href="" target="_blank" rel="noreferrer">
+                <a href="https://github.com/LavanyaChand" target="_blank" rel="noreferrer">
                   <Icon img={githubIcon} />
                 </a>
-                <a href="" target="_blank" rel="noreferrer">
+                <a href="https://www.linkedin.com/in/lavanyachand/" target="_blank" rel="noreferrer">
                   <Icon img={linkedinIcon} />
                 </a>
                 <a href="" target="_blank" rel="noreferrer">
@@ -108,7 +108,7 @@ export default function Resume() {
         <div className="resume--grid--experience">
           <div className="resume--grid--experience--head">
             <p className="theme--detail">
-              <ScrambleText delay={0}>A highly motivated software engineer prepared to utilise exceptional software, problem-solving and communication skills to further my programming passion as a website developer.</ScrambleText>
+              <ScrambleText delay={0}>A highly motivated software engineer prepared to utilise exceptional software, problem-solving and communication skills to further my programming passion as a website and app developer.</ScrambleText>
             </p>
 
             <motion.h3 initial="hidden" animate={controls} variants={opacityVariant} transition={{ duration: 1, delay: 0.5 }} className="theme--text">
