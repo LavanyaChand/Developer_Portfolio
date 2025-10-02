@@ -11,7 +11,7 @@ import { useInView } from "react-intersection-observer"
 import ScrambleText from "../ScrambleText"
 import Time from "../Time"
 import NavMenu from "../NavMenu"
-import resume from "../../assets/Lavanya_Chand_Resume__.pdf"
+import resume from "../../assets/Lavanya_Chand.pdf"
 
 export default function Header() {
   const controls = useAnimation()
