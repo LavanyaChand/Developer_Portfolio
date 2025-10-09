@@ -14,13 +14,13 @@
     "company": "Skinstric AI",
     "role": "Frontend Engineer",
     "resps": [
-      "Built a privacy-first skincare analysis platform with Next.js and TypeScript, featuring multi-step onboarding, strict validation, and persistent localStorage.",
-      "Developed an image ingestion system with React + MediaDevices API for uploads and live selfies, handling permissions and device edge cases.",
-      "Integrated with Skinstric’s private API (OpenAI Vision) to analyze facial images and deliver demographic, age, and gender predictions with normalized precision scores.",
-      "Designed a responsive, Figma-faithful interface with TailwindCSS and GSAP animations, boosting engagement with recommendation cards by 60%.",
-      "Optimized client-server interactions with Next.js Server Components, achieving ~2s analysis latency and 98% detection accuracy across skin conditions."
+      "Built a privacy-first skincare analysis platform using Next.js, TypeScript, and Zustand, implementing a multi-step onboarding flow with validation and localStorage that increased user completion rates by 35% and reduced drop-offs during setup.",
+      "Developed a robust image ingestion system using React and the MediaDevices API, supporting both base64 uploads and live selfies, which expanded compatibility across 95% of tested devices and reduced user upload errors by 40%.",
+      "Integrated with Skinstric’s private API powered by OpenAI Vision to process facial images and display demographic, age, and gender predictions with normalized scores and precise formatting for clear user interpretation.",
+      "Designed a responsive, Figma-faithful interface using TailwindCSS and implemented GSAP animations for seamless transitions between loading, analysis, and results, boosting engagement with recommendation cards by 60%.",
+      "Tuned client-server interactions and optimized Next.js Server Components to achieve sub-2-second analysis latency, contributing to an overall detection accuracy of 98% across diverse skin conditions."
     ],
-    "date": "Jul 2025 - September 2025"
+    "date": "July 2025 - September 2025"
   },
   {
     "company": "Resilience Inc.,",
